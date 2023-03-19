@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xXZRWMwzvdb9Bj0UnaN98Y45oY6aow2DrUbNcmnSFL5cSG7M67NQhC18BpBpp/0R5AGMbA4XoAfRobveBgqxhw==",
+  "success": true,
+  "projectFilePath": "/Users/andyman/Desktop/IS Core/IS 413/mission_12_alley725/backend/mission12_api/mission12_api.csproj",
+  "expectedPackageFiles": [
+    "/Users/andyman/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/andyman/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/andyman/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/andyman/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/andyman/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/andyman/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
