@@ -1,5 +1,5 @@
 export default interface Team{
-    abbrev: String,
+    abbrev: string,
     cid: number,
     city: string,
     did: number,
